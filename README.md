@@ -5,4 +5,4 @@ To jest repozytorium wykonanych przeze mnie projektów w ramach studiów oraz pr
    Link do danych użytych w projekcie nr 1: https://drive.google.com/drive/folders/1-ulNKFROcnJWogjdEOjpSG20oPk4RjdO?usp=sharing
 
 2. Wyznaczenie typów osadów budujących dno brzegu przy miejscowości Mechelinki.
-   Link do danych użytych w projekcie nr 2: 
+   Link do danych użytych w projekcie nr 2: https://drive.google.com/drive/folders/1Wyd5ps-ui08ylrgJr2J4eUs720Z528dM?usp=sharing 
